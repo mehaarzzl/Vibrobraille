@@ -1,7 +1,7 @@
 
 # VibroBraille Hybrid (V3) — AI-Powered Tactile Literacy
 
-**Winner / Entry for [Hackathon Name]**
+
 
 > The PC understands. The phone feels. The user reads through touch.
 
